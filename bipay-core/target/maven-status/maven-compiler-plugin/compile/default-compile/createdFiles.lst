@@ -1,0 +1,12 @@
+com\spark\bipay\constant\API.class
+com\spark\bipay\constant\CoinType.class
+com\spark\bipay\utils\HttpUtil.class
+com\spark\bipay\entity\Trade.class
+com\spark\bipay\entity\SupportCoin.class
+com\spark\bipay\utils\SignUtil.class
+com\spark\bipay\entity\Address.class
+com\spark\bipay\http\client\Client.class
+com\spark\bipay\entity\Transfer.class
+com\spark\bipay\http\client\BiPayClient.class
+com\spark\bipay\http\ResponseMessage.class
+com\spark\bipay\entity\Transaction.class

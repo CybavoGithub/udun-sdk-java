@@ -1,0 +1,5 @@
+com\spark\bipay\service\BiPayService.class
+com\spark\bipay\config\BiPayClientConfig.class
+com\spark\bipay\controller\RequestController.class
+com\spark\bipay\BiPayApplication.class
+com\spark\bipay\controller\CallbackController.class
